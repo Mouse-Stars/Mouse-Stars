@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Muse Abdirahman Mumin — Healthcare, Management and Technology</title>
+<desc id="desc">Professional navy and teal banner with abstract medical and digital network motifs.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1f35"/><stop offset=".58" stop-color="#123c58"/><stop offset="1" stop-color="#087e7b"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#62d6c5"/><stop offset="1" stop-color="#d5a84c"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1600" height="420" rx="28" fill="url(#bg)"/><rect width="1600" height="420" rx="28" fill="url(#grid)"/>
+<circle cx="1320" cy="200" r="190" fill="#32b8aa" opacity=".12" filter="url(#glow)"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65"><circle cx="1320" cy="205" r="126"/><circle cx="1320" cy="205" r="88"/><path d="M1194 205h252M1320 79v252M1230 115l180 180M1410 115l-180 180"/></g>
+<g fill="#d5a84c"><circle cx="1320" cy="79" r="5"/><circle cx="1446" cy="205" r="5"/><circle cx="1320" cy="331" r="5"/><circle cx="1194" cy="205" r="5"/></g>
+<g transform="translate(1280 164)" fill="none" stroke="#eaf7f5" stroke-width="12" stroke-linecap="round"><path d="M40 0v82M0 41h82"/></g>
+<g fill="none" stroke="#7bd7ca" stroke-width="2" opacity=".35"><path d="M1050 60l-90 90h-100M1080 350l-80-80H890M1480 80l-65 65h-55"/></g>
+<text x="105" y="142" fill="#7ce0d1" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="5">HEALTHCARE  •  LEADERSHIP  •  DIGITAL INNOVATION</text>
+<text x="100" y="224" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700">Muse Abdirahman Mumin</text>
+<text x="105" y="280" fill="#d8e8ef" font-family="Arial,Helvetica,sans-serif" font-size="27">Healthcare Professional | Health Service Manager</text>
+<text x="105" y="326" fill="#d8e8ef" font-family="Arial,Helvetica,sans-serif" font-size="23">Bridging clinical knowledge, medical education and technology.</text>
+<rect x="105" y="356" width="235" height="5" rx="2.5" fill="url(#accent)"/>
+</svg>
