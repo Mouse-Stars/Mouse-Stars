@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">Somecare Medical Academy platform preview</title>
+<desc id="desc">Illustrative browser-window preview of the Somecare Medical Academy online medical education platform.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102b46"/><stop offset="1" stop-color="#168c83"/></linearGradient><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#f8fbfc"/><stop offset="1" stop-color="#e9f2f3"/></linearGradient></defs>
+<rect width="1200" height="680" rx="28" fill="#e8eef2"/>
+<rect x="28" y="28" width="1144" height="624" rx="20" fill="#fff"/>
+<path d="M28 48a20 20 0 0 1 20-20h1104a20 20 0 0 1 20 20v50H28z" fill="#f5f7f8"/>
+<circle cx="62" cy="63" r="8" fill="#e28b82"/><circle cx="90" cy="63" r="8" fill="#e5c16e"/><circle cx="118" cy="63" r="8" fill="#70b99b"/>
+<rect x="180" y="48" width="780" height="30" rx="15" fill="#e6ecef"/><text x="205" y="69" font-family="Arial" font-size="15" fill="#536879">somecareacademy.com</text>
+<rect x="28" y="98" width="1144" height="554" fill="url(#panel)"/>
+<rect x="28" y="98" width="1144" height="72" fill="#fff"/>
+<rect x="74" y="116" width="38" height="38" rx="10" fill="url(#bg)"/><path d="M93 123v24M81 135h24" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<text x="126" y="134" font-family="Arial" font-size="22" font-weight="700" fill="#102b46">SOMECARE</text><text x="126" y="153" font-family="Arial" font-size="10" letter-spacing="2" fill="#168c83">MEDICAL ACADEMY</text>
+<g font-family="Arial" font-size="15" fill="#42576a"><text x="720" y="141">Courses</text><text x="810" y="141">Digital Library</text><text x="950" y="141">About</text></g>
+<rect x="1008" y="116" width="126" height="38" rx="19" fill="#168c83"/><text x="1031" y="140" font-family="Arial" font-size="14" font-weight="700" fill="#fff">Explore</text>
+<text x="88" y="248" font-family="Arial" font-size="16" font-weight="700" letter-spacing="3" fill="#168c83">PROFESSIONAL ONLINE MEDICAL EDUCATION</text>
+<text x="88" y="318" font-family="Arial" font-size="48" font-weight="700" fill="#102b46">Build clinical knowledge.</text>
+<text x="88" y="375" font-family="Arial" font-size="48" font-weight="700" fill="#168c83">Advance your practice.</text>
+<text x="90" y="425" font-family="Arial" font-size="20" fill="#536879">Structured courses, practical assessments and</text><text x="90" y="455" font-family="Arial" font-size="20" fill="#536879">learning resources for healthcare professionals.</text>
+<rect x="90" y="495" width="190" height="52" rx="26" fill="#168c83"/><text x="119" y="528" font-family="Arial" font-size="17" font-weight="700" fill="#fff">Browse programs →</text>
+<rect x="760" y="210" width="320" height="320" rx="28" fill="#102b46"/>
+<circle cx="920" cy="350" r="104" fill="none" stroke="#d5a84c" stroke-width="3" opacity=".8"/><circle cx="920" cy="350" r="76" fill="none" stroke="#62cbbb" stroke-width="2" opacity=".7"/>
+<path d="M920 292v116M862 350h116" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+<rect x="810" y="465" width="220" height="42" rx="12" fill="#1a4960"/><text x="850" y="492" font-family="Arial" font-size="16" font-weight="700" fill="#eaf7f5">Learn • Practice • Grow</text>
+<text x="88" y="610" font-family="Arial" font-size="14" fill="#728494">ILLUSTRATIVE PLATFORM PREVIEW · SOMECARE MEDICAL ACADEMY</text>
+</svg>
