@@ -1,82 +1,92 @@
-# 👋 Hello, I'm Muse Abdirahman Mumin
+<!-- Profile README for https://github.com/Mouse-Stars -->
 
-### Healthcare Professional | Health Service Manager | Healthcare Technology Enthusiast
+<h1 align="center">Muse Abdirahman Mumin</h1>
+<h3 align="center">Healthcare Professional · Health Service Manager · Healthcare Technology Enthusiast</h3>
 
 <p align="center">
-  <b>Bridging Healthcare, Medical Education, Management & Technology.</b>
+  <img src="./profile-photo.jpg" width="190" alt="Portrait of Muse Abdirahman Mumin" />
+</p>
+
+<p align="center">
+  <strong>Connecting healthcare, medical education, management, and digital innovation.</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:Muusa186@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/252634373897"><img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.facebook.com/share/1E98MmjXX9/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a healthcare professional with an academic background in Medical Laboratory Science and Health Service Management, with a strong interest in Medicine, digital health innovation, and healthcare technology.
+I am a healthcare professional with a background in **Medical Laboratory Science** and **Health Service Management**, and a strong interest in clinical practice, medical education, and digital health.
 
-I am passionate about improving healthcare delivery through technology, evidence-based practice, medical education, and innovative digital solutions.
+I serve as the **Director/Manager of Al Amana Specialist Hospital** in Burco, Somaliland. My work and interests bring together healthcare operations, service quality, laboratory practice, clinical documentation, and practical technology.
 
-Currently, I am exploring the intersection of healthcare, management, and software development to create practical solutions for healthcare professionals and learners.
+I am especially interested in using digital tools to make healthcare services more organized, learning more accessible, and health information more useful for healthcare teams.
 
-## 🎓 Education & Professional Background
+## Education
 
-- **Medical Laboratory Science** – BSc, Hargeisa University
-- **Health Service Management** – Master's level studies
-- **Medicine & Surgery** – Medical studies
-- **Healthcare Management** – Hospital administration and leadership
+- **BSc in Medical Laboratory Science** — University of Hargeisa (2019)
+- **Health Service Management** — Master's-level studies, Abaarso Tech University
+- **Medicine and Surgery** — Medical studies, Golis University
 
-## 🏥 Professional Interests
+## Professional Focus
 
-- Healthcare Management & Administration
-- Medical Laboratory Science
-- Clinical Documentation
-- Medical Education & E-Learning
-- Digital Health & Health Information Systems
-- Evidence-Based Clinical Practice
-- Healthcare Quality Improvement
+- Hospital management and healthcare administration
+- Medical laboratory science and diagnostic services
+- Clinical documentation and health information systems
+- Healthcare quality improvement
+- Medical education and e-learning
+- Evidence-informed clinical and operational practice
+- Digital health solutions for healthcare teams
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Somecare Medical Academy
 
-An online medical education platform focused on accessible, structured, and professional healthcare education.
+An online medical education initiative designed to support structured learning and professional development for healthcare students and practitioners.
 
-**Key Features:**
-- Online medical courses
-- Student registration and management
-- Digital learning resources
-- Quizzes and assessments
-- Student progress tracking
-- Certificate generation
+**Planned and developing capabilities**
+- Structured online medical courses
+- Student accounts and learning dashboards
+- Digital learning materials
+- Quizzes, assignments, and assessments
+- Learning progress tracking
+- Course completion certificates
 
-**Technology:** GitHub | Supabase | Vercel | Web Technologies
+**Project tools:** GitHub · Supabase · Vercel
 
-## 🛠️ Technology & Digital Skills
+## Technology & Tools
 
-- Git & GitHub
-- Supabase
-- Vercel
-- Web Development
-- Database Management
-- Digital Healthcare Solutions
-- Online Learning Platforms
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
-## 🎯 My Mission
+I am actively developing my skills in version control, web platforms, databases, and digital product development through practical projects.
 
-To combine healthcare knowledge, medical education, management experience, and technology to develop innovative solutions that improve healthcare services and empower the next generation of healthcare professionals.
+## Mission
 
-## 📫 Connect With Me
+To bring healthcare knowledge, management experience, and technology together to help improve healthcare delivery and expand access to high-quality medical education.
+
+## Contact
 
 - **Email:** [Muusa186@gmail.com](mailto:Muusa186@gmail.com)
-- **Phone:** [+252 634 373897](tel:+252634373897)
-- **WhatsApp:** [Chat with me](https://wa.me/252634373897)
-- **Facebook:** [My Facebook Profile](https://www.facebook.com/share/1E98MmjXX9/?mibextid=wwXIfr)
-- **GitHub:** [Mouse-Stars](https://github.com/Mouse-Stars)
+- **Phone:** [+252 63 437 3897](tel:+252634373897)
+- **WhatsApp:** [Start a conversation](https://wa.me/252634373897)
+- **Facebook:** [Visit my Facebook profile](https://www.facebook.com/share/1E98MmjXX9/?mibextid=wwXIfr)
+- **GitHub:** [@Mouse-Stars](https://github.com/Mouse-Stars)
 
 ---
 
 <p align="center">
-  <i>"Innovation in healthcare begins with knowledge, collaboration, and technology."</i>
+  <em>“Better healthcare through knowledge, collaboration, and thoughtful innovation.”</em>
 </p>
-
 <p align="center">
-  ⭐ Thank you for visiting my profile! ⭐
+  Thanks for visiting my profile.
 </p>
